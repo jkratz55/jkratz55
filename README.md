@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer, technical lead, technologist, geek, husband, father, dog lover, gamer, and avid learner. Technology and software development are my passions. I enjoy solving complex problems and building software. I'm an opensource advocate and would like to contribute more to opensource. My background is primarily as a backend software engineer with a heavy emphasis on object-oriented programming, JVM languages and frameworks, and SQL databases. Within the past year, I transitioned to writing primarily in GO within a microservice architecture. I've also had experience with C#, Python, JavaScript, Swift.
+I'm a software engineer, technical lead, technologist, geek, husband, father, dog lover, gamer, and avid learner. Technology and software development are my passions. I enjoy solving complex problems and building software. I'm an opensource advocate and would like to contribute more to opensource. My background is primarily as a backend software engineer with a heavy emphasis on object-oriented programming, JVM languages and frameworks, and SQL databases. Within the past year, I transitioned to writing primarily in GO within a microservice architecture. I've also had experience with C#, Python, JavaScript, Swift.
 
 I'm currently learning Rust in my free time. I have several interests including but not limited to: Functional Programming, Elixir, Rust, Docker, Kubernetes, Web Assembly, React, Vue, and DevOps.
 
