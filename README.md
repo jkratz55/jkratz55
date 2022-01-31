@@ -8,6 +8,7 @@ My primary tech stack:
 * Azure
 * AKS/Kubernetes
 * Java/JVM
+* Kotlin
 * Spring & Spring Boot
 * PostgreSQL
 * CockroachDB
@@ -17,7 +18,6 @@ Also know or work with:
 * C#
 * .NET Framework
 * Python
-* Kotlin
 
 I have a growing interest is Rust and I've been learning Rust in my free time. I'm currently prototpying building web APIs using actix-web.
 
