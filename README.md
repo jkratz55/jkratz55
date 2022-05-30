@@ -12,14 +12,21 @@ My primary tech stack:
 * Spring & Spring Boot
 * PostgreSQL
 * CockroachDB
+* CosmosDB
 
 Also know or work with:
 
 * C#
-* .NET Framework
+* .NET
 * Python
 
+Currently Learning:
+
+* Rust
+
 I have a growing interest is Rust and I've been learning Rust in my free time. I'm currently prototpying building web APIs using actix-web.
+
+⚡ Fun fact: I have two dogs, Kratos and Apollo
 
 <!--
 **jkratz55/jkratz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
