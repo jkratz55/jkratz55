@@ -7,12 +7,14 @@ My primary tech stack:
 * Go
 * Azure
 * AKS/Kubernetes
+* Docker
 * Java/JVM
 * Kotlin
 * Spring & Spring Boot
 * PostgreSQL
 * CockroachDB
 * CosmosDB
+* Kafka
 
 Also know or work with:
 
@@ -20,13 +22,13 @@ Also know or work with:
 * .NET
 * Python
 
-Currently Learning:
+Interesting in Learning:
 
 * Rust
-
-I have a growing interest is Rust and I've been learning Rust in my free time. I'm currently prototpying building web APIs using actix-web.
-
-⚡ Fun fact: I have two dogs, Kratos and Apollo
+* Neo4J
+* Game Development
+* Emulation Development
+* Machine Learning
 
 <!--
 **jkratz55/jkratz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
