@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer, technical lead, technologist, geek, husband, father, dog dad, gamer, and avid learner. Technology and software development are my passions. I enjoy solving complex problems, writing code, tinkering, and learning new technologies. I'm an opensource advocate and would like to contribute more to opensource. My background is primarily as a backend software engineer with a heavy emphasis on object-oriented programming, JVM languages and frameworks, and SQL databases. However, in 2019 I transitioned from mostly writting in Java/JVM technologies to Go with Kubernetes and Microservices. 
+I'm a platform engineer, technical lead, developer, technologist, geek, husband, father, dog dad, gamer, and avid learner. Technology and software development are my passions. I enjoy solving complex problems, writing code, tinkering, engineering solutions and learning new technologies. I'm an opensource advocate and would like to contribute more to opensource. My background is primarily as a backend software engineer with a heavy emphasis on object-oriented programming, JVM languages and frameworks, and SQL databases. In 2019 I transitioned to mostly writing Go microservices deploying to the cloud and Kubernetes.
 
 My primary tech stack:
 
