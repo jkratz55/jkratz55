@@ -11,24 +11,31 @@ My primary tech stack:
 * Java/JVM
 * Kotlin
 * Spring & Spring Boot
+* Quarkus
 * PostgreSQL
 * CockroachDB
 * CosmosDB
 * Kafka
+* Consul
+* Redis
+* Hazelcast
 
 Also know or work with:
 
 * C#
 * .NET
 * Python
+* MSSQL
+* Oracle DB
+* AWS
 
 Interesting in Learning:
 
 * Rust
 * Neo4J
-* Game Development
-* Emulation Development
 * Machine Learning
+* Ktor Framework
+* Emulation Development
 
 <!--
 **jkratz55/jkratz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
