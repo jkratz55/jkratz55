@@ -15,6 +15,7 @@ My primary tech stack:
 * PostgreSQL
 * CockroachDB
 * CosmosDB
+* MongoDB
 * Kafka
 * Consul
 * Redis
@@ -22,8 +23,7 @@ My primary tech stack:
 
 Also know or work with:
 
-* C#
-* .NET
+* C#/.NET
 * Python
 * MSSQL
 * Oracle DB
